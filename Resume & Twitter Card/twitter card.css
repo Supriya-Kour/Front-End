@@ -1,0 +1,18 @@
+.margin_top_bottom{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.display_flex{
+    display:flex;
+}
+.display_content{
+    justify-content: space-between;
+}
+#display_around{
+    justify-content:space-around;
+}
+#body_styles{
+    font-family: 'Poppins', sans-serif;
+    /*background-color: rgba(220, 220, 220, 0.644);*/
+}
