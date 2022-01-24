@@ -1,0 +1,25 @@
+body {
+  background-color: #8a4607;
+  color: black;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+/*# sourceMappingURL=index.665d4fd5.css.map */

@@ -1,0 +1,26 @@
+@import "colors";
+
+body{
+    background-color: $primary-color;
+    color: $text-color;
+}
+ /* unvisited link */
+ a:link{
+    color: $secondary-color;
+  }
+  /* visited link */
+  a:visited{
+    color:$secondary-color;
+  }
+  /* mouse over link */
+  a:hover{
+    color:$secondary-color;
+  }
+  /* selected link */
+  a:active{
+    color:$secondary-color;
+  }
+
+//.btn-primary{
+//    background-color: $primary-color;
+//}
